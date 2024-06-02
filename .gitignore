@@ -1,0 +1,2 @@
+# Ignore database files and temporary files
+docker/mysql/data/
